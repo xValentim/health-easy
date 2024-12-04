@@ -14,7 +14,8 @@ chromadb
 matplotlib
 scikit-learn
 pypdf2
-
+fastapi
+uvicorn
 llama-parse
 langserve
 sse_starlette
